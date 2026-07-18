@@ -116,7 +116,7 @@ function App() {
   }
 
   return (
-    <div className='h-150 bg-cyan-300'>
+    <div className='h-200 bg-cyan-300'>
       
       <div className='bg-[url(./assets/thnx.jpg)] bg-no-repeat bg-cover bg-center'>
         <ToastContainer />
